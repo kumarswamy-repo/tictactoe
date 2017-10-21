@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         block1 = (Button) findViewById(R.id.bt_block1);
         block2 = (Button) findViewById(R.id.bt_block2);
         block3 = (Button) findViewById(R.id.bt_block3);
