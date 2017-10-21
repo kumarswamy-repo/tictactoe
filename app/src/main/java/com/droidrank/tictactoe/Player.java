@@ -21,7 +21,6 @@ class Player implements Serializable{
     boolean contains(int num){
         return selected.contains(num);
     }
-
     boolean validate() {
         return ((selected.contains(1) && selected.contains(2) && selected.contains(3)) ||
                 (selected.contains(4) && selected.contains(5) && selected.contains(6)) ||
