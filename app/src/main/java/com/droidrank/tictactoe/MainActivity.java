@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     // first comment in MainActivity
+    // second comment in MainActivity
     
     Button block1, block2, block3, block4, block5, block6, block7, block8, block9, restart;
     TextView result;
