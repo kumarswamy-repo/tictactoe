@@ -14,6 +14,7 @@ import android.support.v7.app.AlertDialog;
 public class LaunchDialog extends DialogFragment {
     // first comment in dialog
     // second comment in dialog
+    // third comment in dialog
     @NonNull
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
