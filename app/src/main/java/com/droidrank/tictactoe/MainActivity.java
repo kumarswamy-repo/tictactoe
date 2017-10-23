@@ -344,5 +344,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Toast.makeText(MainActivity.this,msg,Toast.LENGTH_LONG).show();
     }
 
+    //added last line comment in MainActivity of b2
+
     // last line added in MainActivity of branch1
 }
