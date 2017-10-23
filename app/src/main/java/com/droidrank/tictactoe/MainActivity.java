@@ -343,4 +343,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void showLongToast(String msg){
         Toast.makeText(MainActivity.this,msg,Toast.LENGTH_LONG).show();
     }
+
+    // last line added in MainActivity of branch1
 }
